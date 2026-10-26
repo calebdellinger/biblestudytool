@@ -1,0 +1,239 @@
+Zephaniah: 37 lines added, 0 rejected, 0 verses with a quotation but no speaker
+Zechariah: 152 lines added, 0 rejected, 0 verses with a quotation but no speaker
+Song of Songs: 7 lines added, 0 rejected, 0 verses with a quotation but no speaker
+Ruth: 71 lines added, 0 rejected, 0 verses with a quotation but no speaker
+Revelation: 187 lines added, 0 rejected, 1 verses with a quotation but no speaker
+Psalms: 215 lines added, 0 rejected, 11 verses with a quotation but no speaker
+Proverbs: 104 lines added, 0 rejected, 13 verses with a quotation but no speaker
+Obadiah: 18 lines added, 0 rejected, 0 verses with a quotation but no speaker
+Numbers: 733 lines added, 0 rejected, 0 verses with a quotation but no speaker
+Nehemiah: 108 lines added, 0 rejected, 0 verses with a quotation but no speaker
+Nahum: 11 lines added, 0 rejected, 0 verses with a quotation but no speaker
+Micah: 39 lines added, 0 rejected, 1 verses with a quotation but no speaker
+Matthew: 881 lines added, 0 rejected, 11 verses with a quotation but no speaker
+Mark: 464 lines added, 0 rejected, 3 verses with a quotation but no speaker
+Malachi: 62 lines added, 0 rejected, 0 verses with a quotation but no speaker
+Luke: 864 lines added, 0 rejected, 4 verses with a quotation but no speaker
+Leviticus: 761 lines added, 0 rejected, 0 verses with a quotation but no speaker
+Lamentations: 11 lines added, 0 rejected, 0 verses with a quotation but no speaker
+Judges: 358 lines added, 0 rejected, 0 verses with a quotation but no speaker
+Jude: 4 lines added, 0 rejected, 0 verses with a quotation but no speaker
+Joshua: 235 lines added, 0 rejected, 0 verses with a quotation but no speaker
+Jonah: 35 lines added, 0 rejected, 0 verses with a quotation but no speaker
+John: 732 lines added, 0 rejected, 9 verses with a quotation but no speaker
+Joel: 38 lines added, 0 rejected, 0 verses with a quotation but no speaker
+Job: 1022 lines added, 0 rejected, 0 verses with a quotation but no speaker
+Jeremiah: 1082 lines added, 0 rejected, 2 verses with a quotation but no speaker
+Isaiah: 602 lines added, 0 rejected, 16 verses with a quotation but no speaker
+Hosea: 77 lines added, 0 rejected, 1 verses with a quotation but no speaker
+Hebrews: 2 lines added, 0 rejected, 39 verses with a quotation but no speaker
+Haggai: 32 lines added, 0 rejected, 0 verses with a quotation but no speaker
+Habakkuk: 26 lines added, 0 rejected, 0 verses with a quotation but no speaker
+Genesis: 918 lines added, 0 rejected, 0 verses with a quotation but no speaker
+Galatians: 2 lines added, 0 rejected, 12 verses with a quotation but no speaker
+Ezra: 38 lines added, 0 rejected, 0 verses with a quotation but no speaker
+Ezekiel: 1053 lines added, 0 rejected, 1 verses with a quotation but no speaker
+Exodus: 829 lines added, 0 rejected, 0 verses with a quotation but no speaker
+Esther: 61 lines added, 0 rejected, 0 verses with a quotation but no speaker
+Ecclesiastes: 17 lines added, 0 rejected, 5 verses with a quotation but no speaker
+Deuteronomy: 373 lines added, 0 rejected, 0 verses with a quotation but no speaker
+Daniel: 254 lines added, 0 rejected, 0 verses with a quotation but no speaker
+Amos: 133 lines added, 0 rejected, 0 verses with a quotation but no speaker
+Acts: 555 lines added, 0 rejected, 1 verses with a quotation but no speaker
+2 Samuel: 483 lines added, 0 rejected, 0 verses with a quotation but no speaker
+2 Peter: 1 lines added, 0 rejected, 2 verses with a quotation but no speaker
+2 Kings: 405 lines added, 0 rejected, 0 verses with a quotation but no speaker
+2 Corinthians: 2 lines added, 0 rejected, 16 verses with a quotation but no speaker
+2 Chronicles: 257 lines added, 0 rejected, 2 verses with a quotation but no speaker
+1 Samuel: 595 lines added, 0 rejected, 3 verses with a quotation but no speaker
+1 Kings: 422 lines added, 0 rejected, 2 verses with a quotation but no speaker
+1 Corinthians: 2 lines added, 0 rejected, 31 verses with a quotation but no speaker
+1 Chronicles: 148 lines added, 0 rejected, 1 verses with a quotation but no speaker
+1 Chronicles 16:41: has a quotation but no speaker
+1 Corinthians 1:12: has a quotation but no speaker
+1 Corinthians 1:19: has a quotation but no speaker
+1 Corinthians 1:31: has a quotation but no speaker
+1 Corinthians 2:9: has a quotation but no speaker
+1 Corinthians 2:16: has a quotation but no speaker
+1 Corinthians 3:4: has a quotation but no speaker
+1 Corinthians 3:19: has a quotation but no speaker
+1 Corinthians 3:20: has a quotation but no speaker
+1 Corinthians 5:13: has a quotation but no speaker
+1 Corinthians 6:12: has a quotation but no speaker
+1 Corinthians 6:13: has a quotation but no speaker
+1 Corinthians 6:16: has a quotation but no speaker
+1 Corinthians 9:9: has a quotation but no speaker
+1 Corinthians 10:7: has a quotation but no speaker
+1 Corinthians 10:23: has a quotation but no speaker
+1 Corinthians 10:26: has a quotation but no speaker
+1 Corinthians 10:28: has a quotation but no speaker
+1 Corinthians 12:3: has a quotation but no speaker
+1 Corinthians 12:15: has a quotation but no speaker
+1 Corinthians 12:16: has a quotation but no speaker
+1 Corinthians 12:21: has a quotation but no speaker
+1 Corinthians 14:16: has a quotation but no speaker
+1 Corinthians 14:21: has a quotation but no speaker
+1 Corinthians 14:25: has a quotation but no speaker
+1 Corinthians 15:27: has a quotation but no speaker
+1 Corinthians 15:32: has a quotation but no speaker
+1 Corinthians 15:33: has a quotation but no speaker
+1 Corinthians 15:35: has a quotation but no speaker
+1 Corinthians 15:45: has a quotation but no speaker
+1 Corinthians 15:54: has a quotation but no speaker
+1 Corinthians 15:55: has a quotation but no speaker
+1 Kings 1:6: has a quotation but no speaker
+1 Kings 22:36: has a quotation but no speaker
+1 Samuel 9:9: has a quotation but no speaker
+1 Samuel 13:4: has a quotation but no speaker
+1 Samuel 19:24: has a quotation but no speaker
+2 Chronicles 7:6: has a quotation but no speaker
+2 Chronicles 26:23: has a quotation but no speaker
+2 Corinthians 1:17: has a quotation but no speaker
+2 Corinthians 1:18: has a quotation but no speaker
+2 Corinthians 1:19: has a quotation but no speaker
+2 Corinthians 1:20: has a quotation but no speaker
+2 Corinthians 4:6: has a quotation but no speaker
+2 Corinthians 4:13: has a quotation but no speaker
+2 Corinthians 6:2: has a quotation but no speaker
+2 Corinthians 6:16: has a quotation but no speaker
+2 Corinthians 6:17: has a quotation but no speaker
+2 Corinthians 6:18: has a quotation but no speaker
+2 Corinthians 8:15: has a quotation but no speaker
+2 Corinthians 9:9: has a quotation but no speaker
+2 Corinthians 10:17: has a quotation but no speaker
+2 Corinthians 11:5: has a quotation but no speaker
+2 Corinthians 12:11: has a quotation but no speaker
+2 Corinthians 13:1: has a quotation but no speaker
+2 Peter 2:22: has a quotation but no speaker
+2 Peter 3:4: has a quotation but no speaker
+Acts 8:32: has a quotation but no speaker
+Ecclesiastes 1:10: has a quotation but no speaker
+Ecclesiastes 4:8: has a quotation but no speaker
+Ecclesiastes 7:10: has a quotation but no speaker
+Ecclesiastes 8:4: has a quotation but no speaker
+Ecclesiastes 12:1: has a quotation but no speaker
+Ezekiel 10:13: has a quotation but no speaker
+Galatians 2:15: has a quotation but no speaker
+Galatians 3:6: has a quotation but no speaker
+Galatians 3:8: has a quotation but no speaker
+Galatians 3:10: has a quotation but no speaker
+Galatians 3:11: has a quotation but no speaker
+Galatians 3:12: has a quotation but no speaker
+Galatians 3:13: has a quotation but no speaker
+Galatians 3:16: has a quotation but no speaker
+Galatians 4:6: has a quotation but no speaker
+Galatians 4:27: has a quotation but no speaker
+Galatians 4:30: has a quotation but no speaker
+Galatians 5:14: has a quotation but no speaker
+Hebrews 1:5: has a quotation but no speaker
+Hebrews 1:6: has a quotation but no speaker
+Hebrews 1:7: has a quotation but no speaker
+Hebrews 1:8: has a quotation but no speaker
+Hebrews 1:10: has a quotation but no speaker
+Hebrews 1:13: has a quotation but no speaker
+Hebrews 2:6: has a quotation but no speaker
+Hebrews 2:12: has a quotation but no speaker
+Hebrews 2:13: has a quotation but no speaker
+Hebrews 3:7: has a quotation but no speaker
+Hebrews 3:15: has a quotation but no speaker
+Hebrews 4:3: has a quotation but no speaker
+Hebrews 4:4: has a quotation but no speaker
+Hebrews 4:5: has a quotation but no speaker
+Hebrews 4:7: has a quotation but no speaker
+Hebrews 5:5: has a quotation but no speaker
+Hebrews 5:6: has a quotation but no speaker
+Hebrews 6:14: has a quotation but no speaker
+Hebrews 7:2: has a quotation but no speaker
+Hebrews 7:17: has a quotation but no speaker
+Hebrews 7:21: has a quotation but no speaker
+Hebrews 8:5: has a quotation but no speaker
+Hebrews 8:8: has a quotation but no speaker
+Hebrews 10:5: has a quotation but no speaker
+Hebrews 10:8: has a quotation but no speaker
+Hebrews 10:9: has a quotation but no speaker
+Hebrews 10:16: has a quotation but no speaker
+Hebrews 10:17: has a quotation but no speaker
+Hebrews 10:30: has a quotation but no speaker
+Hebrews 10:37: has a quotation but no speaker
+Hebrews 11:5: has a quotation but no speaker
+Hebrews 11:18: has a quotation but no speaker
+Hebrews 12:5: has a quotation but no speaker
+Hebrews 12:20: has a quotation but no speaker
+Hebrews 12:26: has a quotation but no speaker
+Hebrews 12:27: has a quotation but no speaker
+Hebrews 12:29: has a quotation but no speaker
+Hebrews 13:5: has a quotation but no speaker
+Hebrews 13:6: has a quotation but no speaker
+Hosea 13:2: has a quotation but no speaker
+Isaiah 3:6: has a quotation but no speaker
+Isaiah 3:7: has a quotation but no speaker
+Isaiah 14:8: has a quotation but no speaker
+Isaiah 14:32: has a quotation but no speaker
+Isaiah 19:11: has a quotation but no speaker
+Isaiah 23:4: has a quotation but no speaker
+Isaiah 23:16: has a quotation but no speaker
+Isaiah 28:10: has a quotation but no speaker
+Isaiah 29:11: has a quotation but no speaker
+Isaiah 29:12: has a quotation but no speaker
+Isaiah 29:16: has a quotation but no speaker
+Isaiah 33:18: has a quotation but no speaker
+Isaiah 33:24: has a quotation but no speaker
+Isaiah 42:22: has a quotation but no speaker
+Isaiah 43:9: has a quotation but no speaker
+Isaiah 57:14: has a quotation but no speaker
+Jeremiah 13:22: has a quotation but no speaker
+Jeremiah 20:15: has a quotation but no speaker
+John 2:17: has a quotation but no speaker
+John 12:15: has a quotation but no speaker
+John 12:38: has a quotation but no speaker
+John 12:40: has a quotation but no speaker
+John 18:9: has a quotation but no speaker
+John 19:36: has a quotation but no speaker
+John 19:37: has a quotation but no speaker
+John 21:20: has a quotation but no speaker
+John 21:23: has a quotation but no speaker
+Luke 2:23: has a quotation but no speaker
+Luke 2:24: has a quotation but no speaker
+Luke 3:4: has a quotation but no speaker
+Luke 4:18: has a quotation but no speaker
+Mark 1:2: has a quotation but no speaker
+Mark 1:3: has a quotation but no speaker
+Mark 3:17: has a quotation but no speaker
+Matthew 1:23: has a quotation but no speaker
+Matthew 2:15: has a quotation but no speaker
+Matthew 2:18: has a quotation but no speaker
+Matthew 2:23: has a quotation but no speaker
+Matthew 3:3: has a quotation but no speaker
+Matthew 4:15: has a quotation but no speaker
+Matthew 8:17: has a quotation but no speaker
+Matthew 12:18: has a quotation but no speaker
+Matthew 13:35: has a quotation but no speaker
+Matthew 21:5: has a quotation but no speaker
+Matthew 27:9: has a quotation but no speaker
+Micah 2:11: has a quotation but no speaker
+Proverbs 3:28: has a quotation but no speaker
+Proverbs 5:12: has a quotation but no speaker
+Proverbs 7:4: has a quotation but no speaker
+Proverbs 20:9: has a quotation but no speaker
+Proverbs 20:14: has a quotation but no speaker
+Proverbs 20:22: has a quotation but no speaker
+Proverbs 23:7: has a quotation but no speaker
+Proverbs 24:12: has a quotation but no speaker
+Proverbs 24:24: has a quotation but no speaker
+Proverbs 24:29: has a quotation but no speaker
+Proverbs 25:7: has a quotation but no speaker
+Proverbs 26:19: has a quotation but no speaker
+Proverbs 28:24: has a quotation but no speaker
+Psalms 9:1: has a quotation but no speaker
+Psalms 22:1: has a quotation but no speaker
+Psalms 45:1: has a quotation but no speaker
+Psalms 56:1: has a quotation but no speaker
+Psalms 57:1: has a quotation but no speaker
+Psalms 58:1: has a quotation but no speaker
+Psalms 59:1: has a quotation but no speaker
+Psalms 60:1: has a quotation but no speaker
+Psalms 69:1: has a quotation but no speaker
+Psalms 75:1: has a quotation but no speaker
+Psalms 80:1: has a quotation but no speaker
+Revelation 13:10: has a quotation but no speaker
+RUTH 1:10: naming words not found: "they"

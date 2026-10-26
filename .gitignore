@@ -19,11 +19,5 @@ app/dist/
 _update/
 _to_delete/
 _old/
-for-gemini/
-/data/
 scripts/__pycache__/
 __pycache__/
-
-# --- generated reference data (Bible text, commentaries, interlinear, Spurgeon...). Kept out of this public
-#     repository until the licence of each source has been checked; rebuilt by the scripts in scripts/ ---
-app/public/data/

@@ -83,9 +83,6 @@ On iPhone (iOS 16.4 or later): open Margin in Safari, Share › Add to Home Scre
 then Settings › Notifications › Turn on, and pick times. Reminders only go out while the PC is on; one missed while it slept
 is still sent up to three hours late.
 
-## Reference data is not in this repository
+## Not in this repository
 
-`app/public/data/` (Bible texts, commentaries, original-language data, Spurgeon and the other generated files) is
-left out on purpose: it is built from third-party sources by the scripts in `scripts/`, and the licence of each
-source has to be checked before it is published. Passwords, API keys and push keys (`server/config.json`,
-`server/push-*.json`, `couchDb credentials.txt`) are never committed either.
+Passwords and keys (server/config.json, server/push-*.json, couchDb credentials.txt), database backups (server/BibleAppBackup/), builds (pp/dist/), update packages and old copies are never committed. The repository holds the app, the server, the build scripts and the generated reference data in pp/public/data/; some of that data comes from third-party sources, so keep this repository private.

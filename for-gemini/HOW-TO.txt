@@ -1,0 +1,16 @@
+Who's-speaking data for YHWH (Berean Standard Bible)
+
+1. Open Gemini (2.5 Pro or newer works best for long books).
+2. Start a new chat. Paste the whole of PROMPT-for-Gemini.md as your message.
+   Change the last line to the book and chapters you want, e.g. "Start with: Joshua, chapters 1 to 12."
+3. Attach that book's text file from the "bsb" folder (e.g. 06-JOSH.txt). Send.
+4. If the reply ends with {"continue_from": ...}, just reply "continue".
+5. Copy everything Gemini wrote (all the lines starting with {) into a plain text file in the
+   "results" folder, named after the book code, e.g. results\JOSH.jsonl.
+   If a book took several replies, paste them one after another into the same file.
+   It doesn't matter if the {"continue_from"...} lines are left in.
+6. Tell Claude which books are done. Claude checks every line against the Bible text and lists anything
+   that doesn't match before adding it to the app.
+
+Tip: do 10-15 chapters per chat for long books, and start a fresh chat for each new book.
+Good books to try first: Joshua (06), Ruth (08), Jonah (32), John (43).
