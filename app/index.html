@@ -1,0 +1,79 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <link rel="apple-touch-icon" href="/icon-192.png" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
+    <meta name="theme-color" content="#f4f5f2" media="(prefers-color-scheme: light)" />
+    <meta name="theme-color" content="#14171b" media="(prefers-color-scheme: dark)" />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-title" content="YHWH" />
+    <title>YHWH</title>
+    <style>
+      /* Opening screen: shown at once, before the app loads; tap anywhere to continue. */
+      #splash { position: fixed; inset: 0; z-index: 100; display: grid; cursor: pointer; -webkit-tap-highlight-color: transparent; user-select: none; -webkit-user-select: none; place-items: center; padding: 32px 28px calc(32px + env(safe-area-inset-bottom));
+        background: #f4f5f2; color: #1f2328; transition: opacity 0.6s ease; }
+      #splash.dark { background: #14171b; color: #e8e5de; }
+      #splash.parch { background: #efe5d1; color: #2a2017; }
+      #splash.parch.dark { background: #1e1812; color: #ece0c9; }
+      #splash.modern { background: #f6f7f9; color: #0c0e13; }
+      #splash.modern.dark { background: #090a0e; color: #eceef4; }
+      #splash.modern .s-text { font-family: -apple-system, system-ui, sans-serif; font-weight: 500; letter-spacing: -0.01em; }
+      #splash.modern .s-name { font-family: ui-monospace, 'SF Mono', Menlo, monospace; font-weight: 600; letter-spacing: 0.4em; color: #4f46e5; }
+      #splash.modern .s-key { color: #4f46e5; }
+      #splash.modern.dark .s-name, #splash.modern.dark .s-key { color: #8b8cff; }
+      #splash.gone { opacity: 0; pointer-events: none; }
+      #splash .s-in { max-width: 30rem; text-align: center; opacity: 0; transform: translateY(6px); animation: s-rise 0.9s 0.1s ease-out forwards; }
+      #splash .s-name { font: 500 15px/1 'Iowan Old Style', Georgia, serif; letter-spacing: 0.32em; padding-left: 0.32em; color: #24427f; margin: 0 0 30px; }
+      #splash.dark .s-name, #splash.dark .s-key { color: #9db4ea; }
+      #splash .s-text { font: 400 21px/1.6 'Iowan Old Style', Georgia, serif; margin: 0; text-wrap: balance; }
+      #splash .s-key { color: #24427f; }
+      #splash.parch .s-name, #splash.parch .s-key { color: #8f2c22; }
+      #splash.parch.dark .s-name, #splash.parch.dark .s-key { color: #d98a6c; }
+      #splash .s-ref { margin: 18px 0 0; font: 600 12px/1 -apple-system, system-ui, sans-serif; letter-spacing: 0.12em; text-transform: uppercase; opacity: 0.5; }
+      #splash .s-tap { position: absolute; left: 0; right: 0; bottom: calc(40px + env(safe-area-inset-bottom)); text-align: center;
+        font: 500 13px/1 -apple-system, system-ui, sans-serif; letter-spacing: 0.04em; opacity: 0; animation: s-hint 1s 1.6s ease-out forwards; }
+      @keyframes s-hint { to { opacity: 0.45; } }
+      @keyframes s-rise { to { opacity: 1; transform: none; } }
+      @media (prefers-reduced-motion: reduce) { #splash .s-in { animation: none; opacity: 1; transform: none; } }
+    </style>
+  </head>
+  <body>
+    <div id="splash" role="status" aria-live="polite"><div class="s-in"><p class="s-name">YHWH</p><p class="s-text" id="s-text"></p><p class="s-ref" id="s-ref"></p></div><p class="s-tap">Tap to begin</p></div>
+    <script>
+      // Ezekiel's refrain, from the Berean Standard Bible with the divine name (YHWH) written as Yahweh.
+      (function () {
+        var v = [
+          ['I will put breath within you so that you will come to life. ', 'Then you will know that I am Yahweh.', 'Ezekiel 37:6'],
+          ['', 'Then you, My people, will know that I am Yahweh,', 'Ezekiel 37:13', ' when I open your graves and bring you up from them.'],
+          ['', 'Then you will know that I am Yahweh,', 'Ezekiel 20:42', ' when I bring you into the land of Israel, the land that I swore to give your fathers.'],
+          ['I will make you prosper more than before. ', 'Then you will know that I am Yahweh.', 'Ezekiel 36:11'],
+          ['My flock will be secure in their land. ', 'Then they will know that I am Yahweh,', 'Ezekiel 34:27', ' when I have broken the bars of their yoke…'],
+          ['', 'Then they will know that I am Yahweh their God,', 'Ezekiel 39:28', ' when I regather them to their own land…'],
+        ][Math.floor(Math.random() * 6)];
+        var esc = function (t) { return t.replace(/&/g, '&amp;').replace(/</g, '&lt;') };
+        document.getElementById('s-text').innerHTML = esc(v[0]) + '<span class="s-key">' + esc(v[1]) + '</span>' + esc(v[3] || '');
+        document.getElementById('s-ref').textContent = v[2];
+        var prefs = {};
+        try { prefs = JSON.parse(localStorage.getItem('margin.prefs') || '{}') } catch (e) {}
+        var theme = prefs.theme || 'system', parchment = prefs.style === 'parchment', modern = prefs.style === 'modern';
+        var dark = theme === 'dark' || (theme === 'system' && matchMedia('(prefers-color-scheme: dark)').matches);
+        // Set the look before anything draws, so there's no flash of the other style.
+        if (theme !== 'system') document.documentElement.setAttribute('data-theme', theme);
+        if (parchment || modern) document.documentElement.setAttribute('data-style', prefs.style);
+        document.getElementById('splash').className = (dark ? 'dark' : '') + (parchment ? ' parch' : '') + (modern ? ' modern' : '');
+        // Stays until tapped. If the app is still loading at the tap, it closes as soon as it's ready.
+        var el = document.getElementById('splash'), tapped = false, ready = false;
+        function hide() { el.classList.add('gone'); setTimeout(function () { el.remove() }, 700) }
+        function go() { if (tapped) return; tapped = true; if (ready) hide() }
+        el.addEventListener('click', go);
+        el.addEventListener('keydown', function (e) { if (e.key === 'Enter' || e.key === ' ') go() });
+        el.tabIndex = 0;
+        window.__appReady = function () { ready = true; if (tapped) hide() };
+      })();
+    </script>
+    <div id="root"></div>
+    <script type="module" src="/src/main.tsx"></script>
+  </body>
+</html>
